@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/farigh-mukhlashin-akmalullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farigh-mukhlashin-akmalullah/" height="30" width="40" /></a>
 <a href="https://instagram.com/farighmakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farighmakmal" height="30" width="40" /></a>
 <a href="https://medium.com/@farighmakmalullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@farighmakmalullah" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/farigakmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="farigakmal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@FarigAkmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="farigakmal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
