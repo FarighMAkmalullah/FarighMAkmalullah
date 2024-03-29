@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farigh Mukhlashin Akmalullah</h1>
 <h3 align="center">A passionate frontend developer from Indonesia especially Flutter. I have some experience using Javascript, HTML, CSS, PHP, Dart, and Java.</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/FarighMAkmalullah/FarighMAkmalullah/assets/48850497/ea917ed4-790c-498c-a2be-4ac466627c55">
+<img align="right" alt="coding" width="400" src="https://github.com/FarighMAkmalullah/FarighMAkmalullah/assets/48850497/5665e554-bea6-4015-9069-c7f8e5dfa12d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farighmakmalullah&label=Profile%20views&color=0e75b6&style=flat" alt="farighmakmalullah" /> </p>
 
