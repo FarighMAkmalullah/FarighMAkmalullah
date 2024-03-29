@@ -1,3 +1,4 @@
+![logo](https://github.com/FarighMAkmalullah/FarighMAkmalullah/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Farigh Mukhlashin Akmalullah</h1>
 <h3 align="center">A passionate frontend developer from Indonesia especially Flutter. I have some experience using Javascript, HTML, CSS, PHP, Dart, and Java.</h3>
 
