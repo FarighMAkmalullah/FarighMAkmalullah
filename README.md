@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/FarighMAkmalullah/FarighMAkmalullah/assets/48850497/ea917ed4-790c-498c-a2be-4ac466627c55">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farighmakmalullah&label=Profile%20views&color=0e75b6&style=flat" alt="farighmakmalullah" /> </p>
+<p align="left"> <img src="![image](https://github.com/FarighMAkmalullah/FarighMAkmalullah/assets/48850497/ba1a6a85-a09b-498f-875f-28e2a245e45f)" /> </p>
 
 - 🌱 I’m currently learning **Flutter Flames, Vue, MongoDB, Expressjs**
 
